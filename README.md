@@ -1,4 +1,4 @@
-# YUVIKA
+# Chemical Structure Generator
 This is a Python code for creating a graphical user interface that allows the user to input the name of a chemical compound, retrieves its SMILES representation from PubChem, and displays the 2D structure of the molecule. The interface has two buttons, one for starting the process of generating the structure and another for exiting the interface.
 
 The code uses the following libraries:
