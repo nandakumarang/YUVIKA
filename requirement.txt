@@ -1,0 +1,4 @@
+this
+rdkit
+pygame
+pubchempy
