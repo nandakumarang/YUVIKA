@@ -1,4 +1,4 @@
-# Chemical Structure VisualizationTool with Compound Information Retrieval
+# Chemical Structure Visualization Tool with Compound Information Retrieval
 Introduction:
 The Chemical Structure Visualization Tool is a Python-based project that aims to provide a user-friendly graphical interface for visualizing chemical structures and obtaining information about compounds. It leverages the power of the RDKit and PubChemPy libraries to generate structure images, calculate molecular formulas and masses, and retrieve compound details. The project combines the capabilities of chemistry, computer graphics, and data retrieval to assist users in exploring chemical compounds efficiently.
 
